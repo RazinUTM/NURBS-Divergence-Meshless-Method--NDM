@@ -1,5 +1,4 @@
 # NURBS-Divergence-Meshless-Method--NDM
-NURBS-Divergence-Meshless (NDM) Method
 
 N. Rasin a,e
 H. Hirol a,e
