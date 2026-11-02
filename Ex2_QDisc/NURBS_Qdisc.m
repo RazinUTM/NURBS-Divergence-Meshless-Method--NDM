@@ -2,6 +2,8 @@
 % Attempt: to make a module - simplify the main code
 % Created on: 13/08/2021 by Razin
 % Last updated: 13/08/2021 by Razin
+% Copyright (c) 2021 Ahmad Razin Zainal Abidin and Universiti Teknologi Malaysia
+% SPDX-License-Identifier: MIT
 % Double checked on: 13/08/2021 by Razin
 
 

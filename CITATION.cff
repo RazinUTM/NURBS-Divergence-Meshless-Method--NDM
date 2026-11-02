@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article in preferred-citation."
+type: software
+title: "NURBS-Divergence-Meshless (NDM) method: MATLAB codes for three examples"
+authors:
+  - family-names: "Zainal Abidin"
+    given-names: "Ahmad Razin"
+    affiliation: "Universiti Teknologi Malaysia"
+repository-code: "https://github.com/RazinUTM/NURBS-Divergence-Meshless-Method--NDM"
+license: MIT
+date-released: "2024-07-05"
+keywords:
+  - NURBS
+  - meshless
+  - divergence theorem
+  - moving least squares
+  - isogeometric analysis
+  - MATLAB
+preferred-citation:
+  type: article
+  title: "NURBS-Divergence-Meshless (NDM) method"
+  authors:
+    - family-names: "Rasin"
+      given-names: "Norhidayah"
+    - family-names: "Hirol"
+      given-names: "Halinawati"
+    - family-names: "Zainal Abidin"
+      given-names: "Ahmad Razin"
+    - family-names: "Mokhtaram"
+      given-names: "Mokhtazul Haizad"
+    - family-names: "Mohd Noor"
+      given-names: "Mohd Al Akhbar"
+    - family-names: "Mohd Yassin"
+      given-names: "Airil Yasreen"
+  journal: "Computers & Mathematics with Applications"
+  volume: 196
+  start: 151
+  end: 171
+  year: 2025
+  doi: "10.1016/j.camwa.2025.07.011"

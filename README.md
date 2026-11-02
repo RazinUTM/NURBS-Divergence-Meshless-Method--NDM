@@ -31,3 +31,27 @@ Here we present 3 examples of it application:
 Ex1) Fan Blade Problem  
 Ex2) Quarter-annular Disc  
 Ex3) Cellular Beam  
+
+## Code authorship
+
+The MATLAB code in this repository was written by Ahmad Razin Zainal Abidin (Universiti Teknologi Malaysia) as part of the Malaysian Society for Numerical Methods (MSNM) work on NDM. The method itself is the joint work of the six authors listed above.
+
+## How to cite
+
+If you use this code, please cite the article:
+
+N. Rasin, H. Hirol, A. R. Zainal Abidin, M. H. Mokhtaram, M. A. Mohd Noor and A. Y. Mohd Yassin (2025). NURBS-Divergence-Meshless (NDM) method. *Computers & Mathematics with Applications*, 196, 151–171. https://doi.org/10.1016/j.camwa.2025.07.011
+
+A machine-readable citation is in [`CITATION.cff`](CITATION.cff).
+
+## Licence
+
+MIT Licence, see [`LICENSE`](LICENSE). Copyright (c) 2021–2024 Ahmad Razin Zainal Abidin and Universiti Teknologi Malaysia.
+
+## Disclaimer
+
+Research code, provided as is and without warranty. Results must be checked independently before they are used in design or safety decisions.
+
+## AI-assisted maintenance
+
+The 2026 update that added the licence, the citation file and the copyright headers was prepared with AI assistance and reviewed by the author. No numerical code was changed. See [`AI_USAGE.md`](AI_USAGE.md).
