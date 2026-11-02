@@ -2,6 +2,8 @@
 % Attempt: to make a loop with any Gpoints
 % Created on: 16/12/2023 by Razin
 % Last updated: 16/12/2023 by Razin
+% Copyright (c) 2023 Ahmad Razin Zainal Abidin and Universiti Teknologi Malaysia
+% SPDX-License-Identifier: MIT
 
 
 function [P,W] = NDM_Loop1(Nod,L,ng)

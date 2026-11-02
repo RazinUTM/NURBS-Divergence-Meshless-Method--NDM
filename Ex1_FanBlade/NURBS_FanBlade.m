@@ -1,6 +1,7 @@
 % Title: Fan Blade benchmarking problem - Luo et.al. (2023)
 % Created by: Malaysian Society for Numerical Methods (MSNM)
-% Copyright © 2024 . All Rights Reserved
+% Copyright (c) 2024 Ahmad Razin Zainal Abidin and Universiti Teknologi Malaysia
+% SPDX-License-Identifier: MIT
 
 
 function [cpw,p,q,xi,eta] = NURBS_FanBlade()

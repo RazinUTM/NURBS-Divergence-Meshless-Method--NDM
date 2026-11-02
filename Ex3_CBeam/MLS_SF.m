@@ -1,6 +1,7 @@
 % Title: 2D SF Code considering MLS / Meshfree-EFG
 % Created by: Malaysian Society for Numerical Methods (MSNM)
-% Copyright © 2024 . All Rights Reserved
+% Copyright (c) 2024 Ahmad Razin Zainal Abidin and Universiti Teknologi Malaysia
+% SPDX-License-Identifier: MIT
 
 function [Nx,dNx,dNy] = MLS_SF(points,nodes,r)
 

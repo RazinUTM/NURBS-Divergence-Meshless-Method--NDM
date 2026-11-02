@@ -1,6 +1,7 @@
 % Title: Code for 1D & 2D Gauss Integration
 % Created by: Malaysian Society for Numerical Methods (MSNM)
-% Copyright © 2024 . All Rights Reserved
+% Copyright (c) 2024 Ahmad Razin Zainal Abidin and Universiti Teknologi Malaysia
+% SPDX-License-Identifier: MIT
 
 
 function [xg,wg,fg] = Gauss_Int(xi,eta,ng,ON)

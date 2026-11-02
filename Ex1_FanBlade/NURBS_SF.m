@@ -1,6 +1,7 @@
 % Title: 2D SF Code considering NURBS
 % Created by: Malaysian Society for Numerical Methods (MSNM)
-% Copyright © 2024 . All Rights Reserved
+% Copyright (c) 2024 Ahmad Razin Zainal Abidin and Universiti Teknologi Malaysia
+% SPDX-License-Identifier: MIT
 
 function [Ri,dRds,dRdn] = NURBS_SF(points,cpw,p,q,xi,eta)
 %{

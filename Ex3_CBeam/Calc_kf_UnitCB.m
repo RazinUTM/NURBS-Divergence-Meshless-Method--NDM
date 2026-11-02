@@ -1,6 +1,7 @@
 % Title: Calculate the local matrix and force vector for Cellbeam unit
 % Created by: Malaysian Society for Numerical Methods (MSNM)
-% Copyright © 2024 . All Rights Reserved
+% Copyright (c) 2024 Ahmad Razin Zainal Abidin and Universiti Teknologi Malaysia
+% SPDX-License-Identifier: MIT
 
 
 function [K,F,node_xy] = Calc_kf_UnitCB(kx,ky,qt,ng,mx,my,cpw,p,q,xi,eta)

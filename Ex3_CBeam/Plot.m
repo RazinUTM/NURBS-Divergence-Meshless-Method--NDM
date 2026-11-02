@@ -1,6 +1,7 @@
 % Title: Plot Nodes & Elements - centralised all plotting functions
 % Created by: Malaysian Society for Numerical Methods (MSNM)
-% Copyright © 2024 . All Rights Reserved
+% Copyright (c) 2024 Ahmad Razin Zainal Abidin and Universiti Teknologi Malaysia
+% SPDX-License-Identifier: MIT
 
 
 function Plot(Opt,Obj,Prop,Scale)

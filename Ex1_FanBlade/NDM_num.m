@@ -1,6 +1,7 @@
 % Title: NDM loop (control volume) numbering
 % Created by: Malaysian Society for Numerical Methods (MSNM)
-% Copyright © 2024 . All Rights Reserved
+% Copyright (c) 2024 Ahmad Razin Zainal Abidin and Universiti Teknologi Malaysia
+% SPDX-License-Identifier: MIT
 
 function [S,C,P,W] = NDM_num(a,b,m,n,ng,ON)
 % UDF to calculates
